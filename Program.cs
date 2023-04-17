@@ -10,7 +10,7 @@ using Telegram.Bot.Types.ReplyMarkups;
 
 internal class Program
 {
-    static ITelegramBotClient bot = new TelegramBotClient("5891816266:AAEUnFXyxwuHXz-xKws8pq8cgu-EDEKfn80");
+    static ITelegramBotClient bot = new TelegramBotClient("****");
 
     public static async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
     {
