@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tellegram_bot", "tellegram_bot.csproj", "{5EBFE69E-CC8F-4A08-938A-DB6B50B6520B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EBFE69E-CC8F-4A08-938A-DB6B50B6520B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBFE69E-CC8F-4A08-938A-DB6B50B6520B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBFE69E-CC8F-4A08-938A-DB6B50B6520B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBFE69E-CC8F-4A08-938A-DB6B50B6520B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7EE83D7-BFFC-45FA-8A8E-3D98A158D994}
+	EndGlobalSection
+EndGlobal
